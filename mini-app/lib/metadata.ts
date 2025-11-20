@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Whale Alert";
+export const description = "Whale Alert is a Mini App that tracks large cryptocurrency transactions and whale movements across major blockchains. Monitor transfers between exchanges, wallets, and protocols to spot early market signals. Receive instant notifications for significant on-chain activity to stay ahead of trends. Real-time tracking of large transfers and whale activity, alerts for exchange deposits, withdrawals, and unusual movements, monitoring across multiple blockchains, historical logs and trend analysis, dashboard for managing watchlists and tracked wallets. Ideal for traders and analysts who want to react quickly to big market moves driven by whales and institutional activity.";
 export const url = process.env.NEXT_PUBLIC_URL;
